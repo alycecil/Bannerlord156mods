@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemModifiers>
+  <!-- Arrows -->
+  <ItemModifier id="endless_arrows" name="{=fdgcpipH}Endless {ITEMNAME}" damage="100" stack_count="20000" price_factor="450.5" />
+  <!-- Bolts -->
+  <ItemModifier id="endless_bolts" name="{=fdgcpipH}Endless {ITEMNAME}" damage="100" stack_count="20000" price_factor="450.5" /
+</ItemModifiers>
